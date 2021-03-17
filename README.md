@@ -1,9 +1,9 @@
 # How to start the app
-## Start react app:
+## 1. Start react app:
 ```
 Yarn start
 ```
-## Start electron app:
+## 2. Start electron app:
 ```
 yarn start-electron
 ```
